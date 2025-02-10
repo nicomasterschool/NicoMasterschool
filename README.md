@@ -8,6 +8,6 @@
 
 👨‍💻 In my free time, I enjoy helping other data enthusiasts refine their analytics and solve complex problems.
 
-🌱 Here on GitHub, you’ll find a [collection of projects] (https://github.com/nicomasterschool/Data-Analytics-Portfolio) that highlight my journey in data analysis. Let’s connect and turn data into action!
+🌱 Here on GitHub, you’ll find a [collection of projects](https://github.com/nicomasterschool/Data-Analytics-Portfolio) that highlight my journey in data analysis. Let’s connect and turn data into action!
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nicolas-mustermann/) to discuss ideas or opportunities!
